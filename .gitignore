@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.h5
+*.log
+logs/
+temp_capture.jpg
+.DS_Store
+
+# Build & compiled output directories
+build/
+dist/
+
+# Local database files
+crop_history
+*.db
